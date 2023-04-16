@@ -42,7 +42,7 @@
 
 2. Buat file baru dengan nama ``footer.php``, kemudian simpan ke dalam folder ``lab4_php_modular``.
 
-```
+```php
     <footer>
         <p>&copy; 2023 - Teknik Informatika - Universitas Pelita Bangsa</p>
     </footer>
